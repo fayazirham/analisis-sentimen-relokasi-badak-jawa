@@ -1,0 +1,11 @@
+google-api-python-client
+jupyter
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+seaborn
+Sastrawi
+tensorflow
+wordcloud
